@@ -1,7 +1,5 @@
 package ParentAndBase;
 
-import java.awt.Rectangle;
-
 public class TestCircleRectangle {
 
 	public static void main(String[] args) {
